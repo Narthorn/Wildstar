@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Vim" APIVersion="10" Name="LandMarks" Description="Lets the group/raid leader put down landmarks for the group to see." Version="">
+    <Script Name="LandMarks.lua"/>
+    <Form Name="LandMarks.xml"/>
+    <Script Name="Group.lua"/>
+    <Script Name="Draw.lua"/>
+    <Script Name="Interface.lua"/>
+    <Script Name="Debug.lua"/>
+</Addon>

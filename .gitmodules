@@ -1,0 +1,42 @@
+[submodule "Units"]
+	path = Units
+	url = https://github.com/Narthorn/Units
+[submodule "Foresight"]
+	path = Foresight
+	url = https://github.com/Narthorn/Foresight
+[submodule "VortexMeter"]
+	path = VortexMeter
+	url = https://github.com/Narthorn/VortexMeter
+[submodule "reStrat"]
+	path = reStrat
+	url = https://github.com/Narthorn/reStrat
+[submodule "DrawLib"]
+	path = DrawLib
+	url = https://github.com/Narthorn/DrawLib
+[submodule "Halon"]
+	path = Halon
+	url = https://github.com/Narthorn/Halon
+[submodule "ItemFinder"]
+	path = ItemFinder
+	url = https://github.com/Narthorn/ItemFinder
+[submodule "Chomp"]
+	path = Chomp
+	url = https://github.com/Narthorn/Chomp
+[submodule "Contractor"]
+	path = Contractor
+	url = https://github.com/Narthorn/Contractor
+[submodule "Fix"]
+	path = Fix
+	url = https://github.com/Narthorn/Fix
+[submodule "Notex"]
+	path = Notex
+	url = https://github.com/Narthorn/Notex
+[submodule "Speed"]
+	path = Speed
+	url = https://github.com/Narthorn/Speed
+[submodule "Shodan"]
+	path = Shodan
+	url = https://github.com/Narthorn/Shodan
+[submodule "QuickDrawTracker"]
+	path = QuickDrawTracker
+	url = https://github.com/Narthorn/QuickDrawTracker

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Vim" APIVersion="10" Name="FocusLine" Description="Draws a sticky focus line to the target." Version="">
+    <Script Name="FocusLine.lua"/>
+</Addon>
